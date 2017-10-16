@@ -1,0 +1,10 @@
+{% extends './layout.html' %}
+
+{% block title %}
+    {{ post.title }}
+    <p class="h6">{{ post.writer }}<span class="text-muted">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>{{ post.created_at }}</p>
+{% endblock %}
+
+{% block content %}
+    {{ post.content }}
+{% endblock %}

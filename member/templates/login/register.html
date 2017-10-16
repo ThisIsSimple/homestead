@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>HomeStead | Register</title>
+
+        {% load staticfiles %}
+
+        <link rel="stylesheet" href="{% static 'login/css/style.css' %}">
+
+
+</head>
+
+<body>
+    <style>
+        .wrapper {
+            top: 25% !important;
+            height: 600px !important;
+        }
+
+        .container {
+            height: 600px !important;
+        }
+    </style>
+    <div class="wrapper">
+        <div class="container">
+            <h1>Welcome to HOMESTEAD</h1>
+
+            <form class="form" action="/member/register" method="post">{% csrf_token %}
+                <input type="text" id="text" name="name" placeholder="Name" required>
+                <input type="text" id="email" name="email" placeholder="Email" required>
+                <input type="password" id="password" name="password" placeholder="Password" required>
+                <input type="password" id="passwordCheck" name="passwordCheck" placeholder="Password Confirm" required>
+                <button type="submit" id="login-button">Register</button>
+            </form>
+            <p class="guest"><a href="/member/login">Sign In</a><a href="/">OR continue with guest</a></p>
+        </div>
+
+        <ul class="bg-bubbles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script src="{% static 'login/js/register.js' %}"></script>
+</body>
+</html>

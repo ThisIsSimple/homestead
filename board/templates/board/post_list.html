@@ -1,0 +1,21 @@
+{% extends './layout.html' %}
+
+{% block title %}
+    {{ board.name }}
+{% endblock %}
+
+{% block content %}
+<div class="col-lg-3 col-md-3 col-sm-12">
+
+</div>
+<div class="col-lg-9 col-md-9 col-sm-12 row">
+    {% for post in posts %}
+    <div class="col-lg-3 col-md-4 col-xs-6">
+        <a href="/board/{{ board }}/{{ post.id }}" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="http://placehold.it/400x300" alt="">
+            {{ post.title }}
+        </a>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
