@@ -25,7 +25,7 @@ SECRET_KEY = '442385sumsy6_6w(jik8skvv%8o7)_spk49f+s)y-7061^u)np'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'homestead',
         'USER': 'root',
         'PASSWORD': 'simple1234',
-        'HOST': '127.0.0.1',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
