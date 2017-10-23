@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'homestead',
         'USER': 'root',
         'PASSWORD': 'simple1234',
-        'HOST': '127.0.0.1',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
