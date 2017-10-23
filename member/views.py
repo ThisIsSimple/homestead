@@ -27,7 +27,7 @@ def login(request):
         return HttpResponse(content)
     else:
         if request.session.get('logged_in', True):
-            return redirect('/')
+            return redirect('/member/dashboard/'+request.session.get("member_code"))
         else:
             return render(request, 'login/login.html')
 
