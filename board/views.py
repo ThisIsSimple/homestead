@@ -8,9 +8,13 @@ from .models import Post, Board
 
 # views
 def board_list(request):
+    boards = Board.objects.all()
 
+    content = {
+        'boards' : boards
+    }
 
-    return render(request, 'board/board_list.html')
+    return render(request, 'board/board_list.html', content)
 
 def post_list(request, board_name):
     board = get_object_or_404(Board, name=board_name)

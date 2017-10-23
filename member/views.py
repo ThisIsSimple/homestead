@@ -36,7 +36,7 @@ def logout(request):
         request.session['logged_in'] = False
     except KeyError:
         pass
-    return redirect('/member/login')
+    return redirect('/')
 
 def register(request):
     if (request.method == "POST"):

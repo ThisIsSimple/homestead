@@ -1,9 +1,21 @@
 {% extends './layout.html' %}
 
 {% block title %}
-
+    <p class="h6">Create Post</p>
 {% endblock %}
 
 {% block content %}
-
+    <form>
+        <div class="form-group">
+            <label for="title">Title</label>
+            <input type="text" class="form-control" id="title" placeholder="Title">
+        </div>
+        <div class="form-group">
+            <label for="content">Content</label>
+            <textarea class="form-control" name="content" id="content" rows="3"></textarea>
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" value="Post">
+        </div>
+    </form>
 {% endblock %}
