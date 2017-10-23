@@ -2,4 +2,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def main(request):
-    return HttpResponse("asdf")
+    return render(request, 'main/main.html')

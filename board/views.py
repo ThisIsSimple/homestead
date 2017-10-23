@@ -7,6 +7,11 @@ from .models import Post, Board
 
 
 # views
+def board_list(request):
+
+
+    return render(request, 'board/board_list.html')
+
 def post_list(request, board_name):
     board = get_object_or_404(Board, name=board_name)
     posts = Post.objects.filter(board_id=board.id).order_by('created_at').reverse()[:12]
