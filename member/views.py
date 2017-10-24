@@ -27,8 +27,9 @@ def login(request):
         return HttpResponse(content)
     else:
         if request.session.get('logged_in', True):
-            return redirect('/member/dashboard/'+request.session.get("member_code"))
+            return redirect('/member/dashboard/'+request.session.member_code)
         else:
+            request.session.logged_in = False
             return render(request, 'login/login.html')
 
 def logout(request):
@@ -36,7 +37,7 @@ def logout(request):
         request.session['logged_in'] = False
     except KeyError:
         pass
-    return redirect('/')
+    return redirect('/member/login')
 
 def register(request):
     if (request.method == "POST"):
