@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'board',
     'main',
     'plant',
+    'data'
 ]
 
 MIDDLEWARE = [

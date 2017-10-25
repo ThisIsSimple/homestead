@@ -3,7 +3,6 @@ from django.db import models
 
 class Plant(models.Model):
     name = models.CharField(max_length=254)
-
     created_at = models.DateTimeField(blank=True, null=True)
 
     def publish(self):
