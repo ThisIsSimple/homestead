@@ -1,7 +1,8 @@
 repo_name: ThisIsSimple/homestead
 report_id: 949e12406405624e00aae3f98988614e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:35:17+00:00'
+timestamp: '2024-01-05T08:30:36+00:00'
 requested_by: ThisIsSimple
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead
   detection_source: Repo Metadata
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -35,7 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/PACE/pace.coffee
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ThisIsSimple/homestead
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -58,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -68,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/Gemfile
   detection_source: member/static/dashboard/bower_components/bootstrap/Gemfile
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -95,7 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/static/dashboard/bower_components/bootstrap-timepicker/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -108,7 +115,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -122,7 +129,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/templates/member/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -135,6 +142,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-daterangepicker/package.json
   detection_source: member/static/dashboard/bower_components/bootstrap-daterangepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/7488/select2.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -162,7 +170,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-colorpicker/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -176,7 +184,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1022/jqueryui_avatar_96.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -190,7 +198,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -202,6 +210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead
   detection_source: Repo Metadata
 - name: Grunt
   description: The JavaScript Task Runner
@@ -212,7 +221,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -224,6 +233,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/Flot/package.json
   detection_source: member/static/dashboard/bower_components/Flot/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -236,6 +246,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/jquery-ui/package.json
   detection_source: member/static/dashboard/bower_components/jquery-ui/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -250,7 +261,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -262,6 +273,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -275,7 +287,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/1832/phantomjs.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -287,6 +299,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/docs/requirements.txt
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/docs/requirements.txt
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -299,7 +312,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/852/1781835.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/bower.json
   detection_source: member/static/dashboard/bower_components/raphael/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -311,6 +324,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/bower.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -322,6 +336,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -334,6 +349,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/Flot/.travis.yml
   detection_source: member/static/dashboard/bower_components/Flot/.travis.yml
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -347,7 +363,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
   detection_source: member/static/dashboard/bower_components/raphael/webpack.config.js
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -359,6 +375,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -371,6 +388,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -382,6 +400,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package.json
   detection_source: member/templates/member/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -394,7 +413,7 @@ tools:
   category: Design
   sub_category: Fonts
   image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -407,6 +426,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/5979/default_8b58ea1423b69bf123fae8f58e4887b9b4fdb1b4.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/bower.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -416,6 +436,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/board/templates/board/board_list.html
   detection_source: board/templates/board/board_list.html
   last_updated_by: cordelia273
   last_updated_on: 2017-10-23 09:29:32.000000000 Z
@@ -429,7 +450,7 @@ tools:
   category: Languages & Frameworks
   sub_category: UI Components
   image_url: https://img.stackshare.io/service/5368/icon.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -443,7 +464,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/Gemfile.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/Gemfile.lock
   detection_source: member/static/dashboard/bower_components/bootstrap/Gemfile
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -458,7 +479,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/static/dashboard/bower_components/bootstrap-daterangepicker/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -472,7 +493,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3044/72f4ddedbb738d7d21702bb9b57d7754_400x400.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
   detection_source: member/static/dashboard/bower_components/raphael/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -485,6 +506,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead
   detection_source: Repo Metadata
 - name: bower
   description: The browser package manager
@@ -496,7 +518,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16205/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
   detection_source: member/static/dashboard/bower_components/morris.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -517,7 +539,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17351/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -531,7 +553,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -546,7 +568,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17148/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -560,7 +582,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17430/default_f52a9ea80d1a46080182faf142d844b81ca11aa6.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -574,7 +596,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/select2/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -588,7 +610,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -602,7 +624,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16284/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
   detection_source: member/static/dashboard/bower_components/morris.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -616,7 +638,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -630,7 +652,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -644,7 +666,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -658,7 +680,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -672,7 +694,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17982/default_4fd967542aef030b38a14a6ad69d2f385c52808d.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -686,7 +708,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -700,7 +722,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17474/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -714,7 +736,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -728,7 +750,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -742,7 +764,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16061/default_2640651a9f2aee697089f452de5088fc920bd543.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/select2/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/select2/package.json
   detection_source: member/static/dashboard/bower_components/select2/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -756,7 +778,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -770,7 +792,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17348/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/select2/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/select2/package.json
   detection_source: member/static/dashboard/bower_components/select2/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -784,7 +806,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -798,7 +820,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -812,7 +834,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -826,7 +848,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17639/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/select2/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/select2/package.json
   detection_source: member/static/dashboard/bower_components/select2/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -848,7 +870,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16510/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -862,7 +884,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17369/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
   detection_source: member/static/dashboard/bower_components/morris.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -876,7 +898,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17275/default_9b05b1c3b13fc328bf76b8d3fea01ff4688c0c1d.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -890,7 +912,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16916/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/yarn.lock
   detection_source: member/static/dashboard/bower_components/select2/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -904,7 +926,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17562/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -918,7 +940,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16396/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
   detection_source: member/static/dashboard/bower_components/morris.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -932,7 +954,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18170/default_9988dbfaa49c66b3557cfcb4d0066fa661722714.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -946,7 +968,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17667/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/templates/member/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -959,6 +981,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -972,7 +995,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16446/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -986,7 +1009,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1000,7 +1023,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1014,7 +1037,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16655/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1027,6 +1050,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/chart.js/package.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1040,7 +1064,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1054,7 +1078,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/yarn.lock
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1068,7 +1092,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1082,7 +1106,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1103,7 +1127,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16416/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/package.json
   detection_source: member/static/dashboard/bower_components/morris.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1117,7 +1141,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/package-lock.json
   detection_source: member/static/dashboard/bower_components/bootstrap-daterangepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1150,7 +1174,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/templates/member/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-daterangepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1177,7 +1201,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16054/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1191,7 +1215,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/select2/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1212,7 +1236,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/jquery-ui/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1226,7 +1250,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/chart.js/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1247,7 +1271,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1274,7 +1298,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16496/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/grunt/npm-shrinkwrap.json
   detection_source: member/static/dashboard/bower_components/bootstrap/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1288,7 +1312,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16275/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/yarn.lock
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/package.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1301,7 +1325,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1314,7 +1338,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1326,6 +1350,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/bower.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1338,6 +1363,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/templates/member/bower.json
   detection_source: member/templates/member/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1350,7 +1376,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1363,7 +1389,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/raphael/bower.json
   detection_source: member/static/dashboard/bower_components/raphael/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1375,6 +1401,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1387,7 +1414,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/morris.js/bower.json
   detection_source: member/static/dashboard/bower_components/morris.js/bower.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1400,7 +1427,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/packagist/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1413,7 +1440,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/packagist/image.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1425,6 +1452,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/composer.json
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1437,6 +1465,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20304/default_506725603cd9affb22ffa36e3939310b26cbf952.png
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap-datepicker/docs/requirements.txt
   detection_source: member/static/dashboard/bower_components/bootstrap-datepicker/docs/requirements.txt
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
@@ -1450,7 +1479,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
-  detection_source_url: github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/Gemfile.lock
+  detection_source_url: https://github.com/ThisIsSimple/homestead/blob/master/member/static/dashboard/bower_components/bootstrap/Gemfile.lock
   detection_source: member/static/dashboard/bower_components/bootstrap/Gemfile
   last_updated_by: cordelia273
   last_updated_on: 2017-10-16 05:14:06.000000000 Z
